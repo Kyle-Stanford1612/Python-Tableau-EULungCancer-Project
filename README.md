@@ -29,11 +29,11 @@ Project files are stored using the following folder structure:
 
 ● *01 Project Management*: Contains project brief and data sourcing documentation.
 
-● *02 Data*: Data files have not been uploaded to GitHub due to the folder size. The following subfolders were used:
+● *02 Data*: The following subfolders were used:
 
   → Original Data contains the original data frames. 
   
-  → Prepared Data contains data frames that have been edited using Python (cleaning, merging, etc.)
+  → Prepared Data contains data frames that have been edited using Python (cleaning, merging, etc.) as well as JSON files for spatial analysis
 
 ● *03 Python Scripts*: Contains Jupyter notebooks with all relevant code used throughout the project.
 
