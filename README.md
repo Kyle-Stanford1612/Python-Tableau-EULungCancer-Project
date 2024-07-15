@@ -18,8 +18,10 @@ Lung cancer mortality data was sourced from **Kaggle**. The data itself is artif
 
 ## Tools Used:
 
-● **Python:** Scripts were written in Jupyter notebook to conduct data cleaning, data wrangling, and various analyses to uncover relationships and patterns within the data
+● **Python:** Scripts were written in Jupyter notebook to conduct data cleaning, data wrangling, and various analyses to uncover relationships and patterns within the data.
+
 ● **Tableau:** Tableau was utilised to illustrate and report on findings made throughout the project. Key insights, limitations, and future steps have been detaled in the conclusion.
+
 ● **Excel:** On occasion, Excel was utilised to wrangle the data and simplify the process of creating certain visualisations in Tableau.
 
 ## Final Product:
