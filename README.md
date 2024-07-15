@@ -29,7 +29,7 @@ Project files are stored using the following folder structure:
 
 ● *01 Project Management*: Contains project brief and data sourcing documentation.
 
-● *02 Data*: The following subfolders were used:
+● *02 Data*: The following subfolders were used (folder could not be uploaded to GitHub due to file size):
 
   → Original Data contains the original data frames. 
   
