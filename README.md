@@ -50,3 +50,5 @@ Project files are stored using the following folder structure:
 
 ## Final Product:
 The link to the storyboard made using Tableau Public can be accessed [here](https://public.tableau.com/views/AnalysisofLungCancerAcrosstheEuropeanUnion/StoryBoard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
+This storyboard does not contain every step conducted throughout the analysis - only those relevant to the final results.
