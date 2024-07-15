@@ -2,6 +2,8 @@
 This repository contains my Python code for a student project I completed whilst studying at CareerFoundry. This project lead to the development of a Tableau Storyboard detailing insights about Lung Cancer incidence and survival across EU countries. Python scripts have also been included to document the various analyses run on the data.
 
 ## Project Context:
+![image](https://github.com/user-attachments/assets/3fcd7aa4-0e37-4831-b096-fc14bc316466)
+
 In the EU, Lung Cancer is estimated to account for 20.4% of all deaths due to cancer, making it the leading cause of cancer death in men and second in women. Analysing demographic, biological, behavioural, and treatment-related factors in lung cancer patients can contribute to developing cancer-risk prediction models and support decisions regarding appropriate treatment.
 
 ## Key Questions and Objectives:
