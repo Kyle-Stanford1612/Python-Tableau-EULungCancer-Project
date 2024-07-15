@@ -24,5 +24,18 @@ Lung cancer mortality data was sourced from **Kaggle**. The data itself is artif
 
 ● **Excel:** On occasion, Excel was utilised to wrangle the data and simplify the process of creating certain visualisations in Tableau.
 
+## Folders
+Project files are stored using the following folder structure:
+
+● *01 Project Management*: Contains project brief and data sourcing documentation.
+
+● *02 Data*: Data files have not been uploaded to GitHub due to the folder size. The following subfolders were used:
+
+  → Original Data contains the original data frames. 
+  
+  → Prepared Data contains data frames that have been edited using Python (cleaning, merging, etc.)
+
+● *03 Python Scripts*: Contains Jupyter notebooks with all relevant code used throughout the project.
+
 ## Final Product:
 The link to the storyboard made using Tableau Public can be accessed [here](https://public.tableau.com/views/AnalysisofLungCancerAcrosstheEuropeanUnion/StoryBoard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
