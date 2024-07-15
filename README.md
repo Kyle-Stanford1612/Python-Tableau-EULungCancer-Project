@@ -14,7 +14,7 @@ This analysis attempts to answer the following questions:
 ● Can a predictive model be developed to determine an individual's likelihood of surviving lung cancer based on health indicators, treatment, and/or demographic variables?
 
 ## Data
-Lung cancer mortality data was sourced from **Kaggle**. The data itself is artificially generated and little is known about what it is based on. This limitation is noted in the final storyboard. This link directs to the data card on Kaggle: https://www.kaggle.com/datasets/masterdatasan/lung-cancer-mortality-datasets-v2/data
+Lung cancer mortality data was sourced from **Kaggle**. The data itself is artificially generated and little is known about what it is based on. This limitation is noted in the final storyboard. Use this link to look up the data card on Kaggle: https://www.kaggle.com/datasets/masterdatasan/lung-cancer-mortality-datasets-v2/data
 
 ## Tools Used:
 
